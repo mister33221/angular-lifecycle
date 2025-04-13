@@ -44,16 +44,3 @@ src/
     app.component.html
 ```
 
-## Code scaffolding
-
-執行 `ng generate component component-name` 可產生新元件。
-你也可以使用：
-
-```bash
-ng generate directive|pipe|service|class|guard|interface|enum|module
-```
-
-## License
-
-MIT License.
-
